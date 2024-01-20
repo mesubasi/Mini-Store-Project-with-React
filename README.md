@@ -1,8 +1,18 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1>Mini Store Project with React</h1>
+<img src="Mini_Store_Project_with_React.gif" />
+<br>
+<h2>Used Technologies</h2>
+<ul>
+  <li>React.js</li>
+  <li>Vite</li>
+  <li>Bootstrap</li>
+  <li>Fake Store API</li>
+  <li>React Router</li>
+</ul>
+<h2>Features</h2>
+<ul>
+  <li>Login - Logout Operations</li>
+  <li>Personalised Add to Favourites</li>
+  <li>Filter by Category</li>
+  <li>Product Review</li>
+</ul>
