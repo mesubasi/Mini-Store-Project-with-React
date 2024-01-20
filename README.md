@@ -1,6 +1,4 @@
 <h1>Mini Store Project with React</h1>
-<img src="Mini_Store_Project_with_React.gif" />
-<br>
 <h2>Used Technologies</h2>
 <ul>
   <li>React.js</li>
