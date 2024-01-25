@@ -4,7 +4,7 @@
   <li>React.js</li>
   <li>Vite</li>
   <li>Bootstrap</li>
-  <li>Fake Store API</li>
+  <li><a href="https://fakestoreapi.com/">Fake Store API</a></li>
   <li>React Router</li>
 </ul>
 <h2>Features</h2>
